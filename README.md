@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 [Test vr](https://loigallain.github.io/vr-sol/Index.html)
-[Angular]('./cheat_sheets/ANGULAR.md')
+[Angular]('/cheat_sheets/ANGULAR.md')
 
 this is a test
 
