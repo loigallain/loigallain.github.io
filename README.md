@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Test vr](https://loigallain.github.io/vr-sol/Index.html)
 [Angular]('./ANGULAR.md')
 
+this is a test
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
