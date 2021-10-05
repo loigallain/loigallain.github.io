@@ -1,0 +1,133 @@
+- [x] in git add a section for put "proper" commit messages
+  - [x] references to external website
+  - [ ] summarize best practices
+- [ ] consider adding loopback
+- [x] analyse tutorial for websocket (realtime chat with rooms --> traversy)
+- [ ] concerning back end, consider running tutorial for loopback, sails js
+- [ ] complete a page on websocket.io
+- [ ] dig in realtime database
+- [ ] usage of nodejs
+- [ ] datasheet on express
+- [x] add a logger on server and on front end of mean (winston + morgan on back-end),ngx-logger on front end (if made with Angular)
+- [ ] encryption
+- [ ] add a file on semantic versioning
+- [ ] add a file describing coding guideline
+  - [ ] various notation for variable (camel,...)
+- [ ] comparing languages
+  - [ ] C
+  - [ ] C++
+  - [ ] java
+  - [ ] pascal
+  - [ ] javascript
+    - [ ] ES06
+    - [ ] typescript
+    - [ ] jsx
+  - [ ] C#
+  - [ ] Perl
+  - [ ] Dart
+  - [ ] Python
+- [ ] UI framework
+  - [ ] Flutter
+  - [ ] Electron
+  - [ ] HTML/CSS
+  - [ ] materialize
+  - [ ] ...
+- [ ] define a generic header for source code files.
+  - [ ] add it into schematics
+  - [ ] get to know more about schematics modification
+- [ ] for server (with port and other parameters) look into the best usage of configuration files with json ones for instance (issue a markdown on it)
+- [ ] framework de test automatique (karma et autre)
+- [X] outil de logging (winston)
+  - [x] added into the stapmean app back end
+  - [x] ngx-logger must be added for front end
+  - [x] add morgan for http request monitoring on server
+- [ ] chaine CI/CD/CT avec docker et jenkins
+- [ ] regarder le grpc
+- [ ] faire md uniquement sur express
+- [ ] realtime database
+  - [ ] mongodb + socketio + stream
+    - [ ] https://www.mongodb.com/presentations/rapid-realtime-app-development-nodejs-mongodb
+    - [x] socket.io
+      - [x] simple chat plain js
+      - [ ] bring chat in stapler app
+        - [ ] pb with ngx-socket.io and ivvy compiler. had todeactivate it. watch the npm package for update on this.
+      - [ ] security and authentication in socket.io: use jwt 
+  - [ ] firebase
+- [ ] REST API generator
+  - [ ] Loopback
+  - [ ] ...
+- [ ] STRAPI: CMS 
+- [ ] GraphQL
+  - [ ] Appolo
+- [ ] Database
+  - [ ] relational
+    - [ ] SQL
+    - [ ] Mysql
+  - [ ] no relational
+  - [ ] document
+  - [ ] graph data bases
+- [ ] IA
+  - [ ] neural network
+  - [ ] Deep learning
+  - [ ] big data
+- [ ] JS library
+  - [ ] three
+  - [ ] d3.js
+
+- [ ] engineering markdown
+  - [ ] cycle de conception
+  - [ ] outil de la simulation
+    - [ ] 1D
+    - [ ] équa diff
+    - [ ] système
+    - [ ] 3D
+      - [ ] éléments finis
+      - [ ] volumes fine
+    - [ ] optique
+      - [ ] ray trace
+      - [ ] physics based rendering
+  - [ ] modélisation
+  - [ ] physique
+    - [ ] electrique
+      - [ ] Electronique
+      - [ ] réseaux électriques
+      - [ ] moteurs électriques
+      - [ ] transformateurs
+      - [ ] génération
+    - [ ] mécanique
+      - [ ] dynamique
+      - [ ] multi body
+      - [ ] rdm
+- [ ] software development
+  - [ ] test
+    - [ ] unit test
+    - [ ] integration test
+    - [ ] need for automation of those
+    - [ ] usage of framework
+- [ ] define coding guideline for project
+- [ ] find proper documentation extension for VSCODE
+- [ ] get familiar with emmet extension (code snippets for js, angular, three, d3js, html, css...)
+- [ ] document the todo in code within clear syntax
+- [ ] user Taiga to manage project
+- [ ] look into Curl language
+- [ ] Graphics rendering
+  - [ ] map of rendering engines
+    - [ ] unreal
+    - [ ] unity
+    - [ ] pixies
+    - [ ] VR
+    - [ ] compare them explain how they work
+  - [ ] ray trace...
+- web_technologies = {
+"Core": ["HTML5", "CSS3", "JavaScript", "ES6", "DOM", "MySQL"],
+"Advance" : ["OOJS", "TypeScript", "CoffeeScript", "JSON", "AJAX"],
+"UI ": ["Bootstrap", "Sass", "Foundation", "less"],
+"Frameworks": ["React", "Redux", "Angular", "AngularJS", "Handlebars", 			       "Backbone.JS", "jQuery", "node.js"],
+"Tools": ["Bitbucket", "Webpack", "chrome dev tools", "Grunt", "Gulp", "NPM", 	  	  "Git", "SVN", "Bower"],
+"Testing": ["Mocca", "Jest", "Chai", "Karma", "Enzyme"],
+"Manage": ["Agile", "Sprint", "Scrum", "JIRA", "Kanban", "Confluence"],
+"Concepts": ["RWD", "Chrome Extension", "SPA", "TDD", "REST API"],
+"Editors" : ["VS Code", "Atom", "Notepad++","Sublime", "Webstorm"],
+"Others": ["WordPress CMS", "Chrome Dev APIs", "Google App Script", "Magento"]
+}
+
