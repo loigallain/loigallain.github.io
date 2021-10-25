@@ -46,4 +46,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ### Who I am...
-[Resume and contact](https://loigallain.github.io/lgall_resume/Index.html)
+[Resume and contact](https://loigallain.github.io/lgall_resume/)
